@@ -1,2 +1,2 @@
-# Math_server_sumOfSquares
+# Math_server
 Разработка сервера для курсовой.
